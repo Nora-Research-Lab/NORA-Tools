@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/0VJCC9Gf/IMG-20260114-WA0008.jpg" width="50" alt="NORA Research Lab Logo"/>
-  <h1 align="center">NORA Research Lab</h1>
+  <img src="https://i.ibb.co/0VJCC9Gf/IMG-20260114-WA0008.jpg" width="50" alt="NORA Research Lab Logo"/> <h1 align="center">NORA Research Lab Tool Directory</h1>
 </p>
 
 <p align="center"><b>Truth-worthy AI for Earth's extremes.</b></p>
