@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://i.ibb.co/0VJCC9Gf/IMG-20260114-WA0008.jpg" width="50" alt="NORA Research Lab Logo"/>
+  <h1 align="center">NORA Research Lab</h1>
 </p>
 
-<h1 align="center">NORA Research Lab</h1>
 <p align="center"><b>Truth-worthy AI for Earth's extremes.</b></p>
 <p align="center">We build resilient intelligence for high-uncertainty environments — transforming data scarcity into geological and biological precision.</p>
 
